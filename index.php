@@ -11,7 +11,7 @@
 <div class="form-container">
     <header>
         <img src="./logo.png" alt="logo" class="logo">
-        <h1>Sign in to <span class="we">Side</span><span class="japa">Hustle</span></h1>
+        <h1>Sign in to <span class="side">Side</span><span class="hustle">Hustle</span></h1>
     </header>
 <form method="post" action="index.php">
     <label for="name">Enter Your Full Name</label>
